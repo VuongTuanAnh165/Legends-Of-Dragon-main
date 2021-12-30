@@ -8,6 +8,7 @@ public enum BoardState
     Falling,
     Selecting,
     Merging,
+    //testahiose
 }
 
 public class BoardController : MonoBehaviour
